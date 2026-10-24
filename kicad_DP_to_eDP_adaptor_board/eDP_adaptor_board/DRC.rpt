@@ -1,0 +1,89 @@
+** Drc report for eDP_adaptor_board.kicad_pcb **
+** Created on 2026-10-15T19:53:02-0400 **
+
+** Found 20 DRC violations **
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Library'.
+    Local override; warning
+    @(87.0800 mm, 90.0000 mm): Footprint J2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(93.6400 mm, 98.1078 mm): Segment of C7 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(94.3600 mm, 98.1078 mm): Segment of C7 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(103.6400 mm, 92.1078 mm): Segment of C4 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(104.3600 mm, 92.1078 mm): Segment of C4 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(100.2372 mm, 87.6400 mm): Segment of C9 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(100.2372 mm, 88.3600 mm): Segment of C9 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(100.2372 mm, 88.6400 mm): Segment of C8 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(100.2372 mm, 89.3600 mm): Segment of C8 on F.Silkscreen
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.1400 mm, 80.5500 mm): Pad 1 [/ML0_P] of J1 on F.Cu
+    @(112.1400 mm, 81.0000 mm): Pad 2 [GND] of J1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.1400 mm, 81.0000 mm): Pad 2 [GND] of J1 on F.Cu
+    @(112.1400 mm, 81.4500 mm): Pad 3 [/ML0_N] of J1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.1400 mm, 82.0500 mm): Pad 4 [/ML1_P] of J1 on F.Cu
+    @(112.1400 mm, 82.5000 mm): Pad 5 [GND] of J1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.1400 mm, 82.5000 mm): Pad 5 [GND] of J1 on F.Cu
+    @(112.1400 mm, 82.9500 mm): Pad 6 [/ML1_N] of J1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.1400 mm, 83.5500 mm): Pad 7 [/ML2_P] of J1 on F.Cu
+    @(112.1400 mm, 84.0000 mm): Pad 8 [GND] of J1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.1400 mm, 84.0000 mm): Pad 8 [GND] of J1 on F.Cu
+    @(112.1400 mm, 84.4500 mm): Pad 9 [/ML2_N] of J1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.1400 mm, 85.0500 mm): Pad 10 [/ML3_P] of J1 on F.Cu
+    @(112.1400 mm, 85.5000 mm): Pad 11 [GND] of J1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.1400 mm, 85.5000 mm): Pad 11 [GND] of J1 on F.Cu
+    @(112.1400 mm, 85.9500 mm): Pad 12 [/ML3_N] of J1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.1400 mm, 87.5500 mm): Pad 15 [/AUX_P] of J1 on F.Cu
+    @(112.1400 mm, 88.0000 mm): Pad 16 [GND] of J1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.1400 mm, 88.0000 mm): Pad 16 [GND] of J1 on F.Cu
+    @(112.1400 mm, 88.4500 mm): Pad 17 [/AUX_N] of J1 on F.Cu
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(108.3600 mm, 91.3979 mm): Segment of L1 on F.Silkscreen
+    @(108.3400 mm, 91.9250 mm): Reference field of J1
+
+** Found 2 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(100.6650 mm, 88.0000 mm): Track [/AUX_P] on F.Cu, length 0.3350 mm
+    @(100.0250 mm, 88.0000 mm): Track [/AUX_P] on F.Cu, length 0.3450 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(100.0250 mm, 89.0000 mm): Track [/AUX_N] on F.Cu, length 0.3450 mm
+    @(101.0100 mm, 89.0000 mm): Track [/AUX_N] on F.Cu, length 0.3450 mm
+
+** Found 0 Footprint errors **
+
+** End of Report **
