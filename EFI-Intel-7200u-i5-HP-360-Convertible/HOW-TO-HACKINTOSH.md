@@ -46,7 +46,10 @@ Inside that final folder, you will clearly see the macrecovery.py script file si
 cd "C:\Path\To\Your\OpenCorePkg\Utilities\macrecovery"
 python macrecovery.py -b Mac-B4831CEBD52A0C4C -m 00000000000000000 download
 
-📂 Step 0: If you are doing it 7200u , try downloading all the file in mygithub and skip to step 3 
+📂 Step 0: Skip Steps 
+
+If you are doing it for i5 7200u , try downloading all the file in mygithub and skip to step 3 . 
+else continue the below steps
 ---
 
 ## 📂 Step 1: Base Directory Deployment & File Sourcing (On Host Windows PC)
@@ -150,8 +153,10 @@ To set the USB installer drive aside permanently and allow the laptop to execute
 
 
 
-FOLLOW MY VIDEO FOR MORE INFO  (APOLOGIES NOT IN ENGLISH)
+## 💾 MORE INFO :FOLLOW MY VIDEO (APOLOGIES NOT IN ENGLISH) USE CC or Translation.
 Shorts:
-https://youtube.com/shorts/YfDv8GuZHZI?si=Qed29gtknsSArNgR
+
+https://youtube.com/shorts/YfDv8GuZHZI?si=Qed29gtknsSArNgR  .
+
 Full Video:
 TBU
