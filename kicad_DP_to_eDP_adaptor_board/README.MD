@@ -15,6 +15,15 @@ A complete, production-ready 4-layer PCB design in KiCad for adapting standard D
 * `*.gbr` & `*.drl` – 4-layer Gerber and drill files ready for PCB fabrication.
 * `*.csv` – BOM and component placement (CPL) files for PCBA assembly.
 
+## Board Preview
+![3D PCB Render](images/board_3d.png)
+![3D PCB Render](images/board_3d_1.png)
+*3D render of the 4-layer DP to eDP adaptor board in KiCad.*
+
+
+## Video Demo & Board Testing
+[![DP to eDP Board Testing](https://youtube.com)](https://youtube.com/live/ElrLp2mAr54?feature=share)
+
 ## Acknowledgments
 * **[edp-display-board by marcbperez](https://github.com)** – Referenced during initial research for general DP-to-eDP pinout concepts. All schematics, footprints, and the 4-layer PCB layout in this repository were created independently.
 
