@@ -2,7 +2,7 @@
 
 > 🌟 **CREDITS & THANKS TO:** Huge thanks to [lucioreyli/EFI-Hackintosh-i5-7200U](https://github.com/lucioreyli/EFI-Hackintosh-i5-7200U) for providing the original repository foundation. 
 > 
-> 🚀 **PROJECT PURPOSE:** This EFI configuration is a major upgrade of the base project above. It has been extensively modified, rewritten, and updated for **OpenCore 1.0.8** to enable modern **macOS Ventura native deployment** specifically optimized for an **HP laptop with full touchscreen support**.
+> 🚀 **PROJECT PURPOSE:** This EFI configuration is a major upgrade of the base project above. It has been extensively modified and updated for **OpenCore 1.0.8** to enable modern **macOS Ventura native deployment** specifically optimized for an **HP laptop with full touchscreen support**.
 
 
 
